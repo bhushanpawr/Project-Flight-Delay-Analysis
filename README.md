@@ -1,1 +1,5 @@
-Download [Dataset]()
+![kpi0](https://github.com/bhushanpawr/Project-Flight-Delay-Analysis/assets/113659167/64842a10-0715-4100-9728-ae2d4fe7eee0)
+![kpi1](https://github.com/bhushanpawr/Project-Flight-Delay-Analysis/assets/113659167/5c9aeda3-0c5d-4490-8f5c-29598bbad3b6)
+![kpi2](https://github.com/bhushanpawr/Project-Flight-Delay-Analysis/assets/113659167/38bda85d-52b6-43a1-a9ae-9eb834f0a38b)
+![kpi3](https://github.com/bhushanpawr/Project-Flight-Delay-Analysis/assets/113659167/eb169ed1-601e-4084-afe1-6093ad2cf88e)
+![kpi4](https://github.com/bhushanpawr/Project-Flight-Delay-Analysis/assets/113659167/7b738e05-643d-4bc8-ae77-1529fedca16e)
